@@ -1,5 +1,4 @@
-pwd
-cd /
+#!/bin/bash
 # start selenium
 /usr/local/lib/node_modules/protractor/bin/webdriver-manager start
 
